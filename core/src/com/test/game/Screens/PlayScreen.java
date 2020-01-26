@@ -13,7 +13,7 @@ public class PlayScreen implements Screen {
 
     public PlayScreen(test game) {
         this.game = game;
-        texture = new Texture("badlogic.jpg");
+        texture = new Texture("hello.jpg");
     }
 //hello
     @Override
